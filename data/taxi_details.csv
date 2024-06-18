@@ -1,4 +1,4 @@
-vehiclenumber,status,make,model,modelyear,color,fuel,wheelchairaccessible,operator,zipcode,affiliation,medallion
+vehicleid,status,make,model,modelyear,color,fuel,wheelchairaccessible,operator,zipcode,affiliation,medallion
 1767,ACTIVE,TOYOTA,SIENNA,2020,WHITE,Gasoline,TRUE,"MARGA ZORA, CORP.",60656,Flash Cab Co,Owner-Operator
 5277,ACTIVE,TOYOTA,CAMRY,2015,WHITE,Hybrid,FALSE,DOLAPO CO,60656,Flash Cab Co,Owner Manager
 6408,ACTIVE,TOYOTA,CAMRY,2023,WHITE,Gasoline,FALSE,"FATAI TRANS, INC",60659,City Service Taxi Association,Owner-Operator
